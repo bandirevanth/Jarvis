@@ -18,4 +18,4 @@ It is capable of:
 
 ---
 
-Don't forget to star this repo and give me a follow!
+Don't forget to star this repo and give me a follow! :)
