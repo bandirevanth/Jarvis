@@ -21,6 +21,7 @@ It is capable of:
 ## Note
 Jarvis is an intelligent assistant, not an authority.  
 AI-generated responses may be inaccurate.  
-Always validate important information independently.
+Always validate important information independently.  
+It must not be used for malicious, deceptive, or unethical applications.
 
 Don't forget to star this repository and follow me! :)
