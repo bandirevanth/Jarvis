@@ -18,4 +18,9 @@ It is capable of:
 
 ---
 
-Don't forget to star this repo and give me a follow! :)
+## Note
+Jarvis is an intelligent assistant, not an authority.
+AI-generated responses may be inaccurate.
+Always validate important information independently.
+
+Don't forget to star this repository and follow me! :)
